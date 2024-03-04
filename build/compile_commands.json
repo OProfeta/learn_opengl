@@ -1,0 +1,137 @@
+[
+{
+  "directory": "/root/learn_opengl/build",
+  "command": "/usr/bin/g++  -I/root/learn_opengl/third_party/glfw-3.4/include -g -o CMakeFiles/my_project.dir/src/main.cpp.o -c /root/learn_opengl/src/main.cpp",
+  "file": "/root/learn_opengl/src/main.cpp"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/context.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/context.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/context.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/init.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/init.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/init.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/input.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/input.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/input.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/monitor.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/monitor.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/monitor.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/platform.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/platform.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/platform.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/vulkan.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/vulkan.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/vulkan.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/window.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/window.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/window.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/egl_context.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/egl_context.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/egl_context.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/osmesa_context.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/osmesa_context.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/osmesa_context.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/null_init.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/null_init.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/null_init.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/null_monitor.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/null_monitor.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/null_monitor.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/null_window.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/null_window.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/null_window.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/null_joystick.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/null_joystick.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/null_joystick.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_module.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/posix_module.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/posix_module.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_time.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/posix_time.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/posix_time.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_thread.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/posix_thread.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/posix_thread.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_init.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/x11_init.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/x11_init.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_monitor.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/x11_monitor.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/x11_monitor.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/x11_window.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/x11_window.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/x11_window.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/xkb_unicode.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/xkb_unicode.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/xkb_unicode.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/glx_context.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/glx_context.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/glx_context.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/wl_init.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/wl_init.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/wl_init.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/wl_monitor.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/wl_monitor.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/wl_monitor.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/wl_window.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/wl_window.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/wl_window.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/linux_joystick.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/linux_joystick.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/linux_joystick.c"
+},
+{
+  "directory": "/root/learn_opengl/build/third_party/glfw-3.4/src",
+  "command": "/usr/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/root/learn_opengl/third_party/glfw-3.4/include -I/root/learn_opengl/third_party/glfw-3.4/src -I/root/learn_opengl/build/third_party/glfw-3.4/src -g -fPIC -Wall -std=c99 -o CMakeFiles/glfw.dir/posix_poll.c.o -c /root/learn_opengl/third_party/glfw-3.4/src/posix_poll.c",
+  "file": "/root/learn_opengl/third_party/glfw-3.4/src/posix_poll.c"
+}
+]
